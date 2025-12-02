@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アリストテレスは斯く語りき",
+  "base_artist": "ドラマストア",
+  "createdAt": "2025-12-02T07:18:03.577486Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アリストテレスは斯く語りき",
+      "artist": "ドラマストア",
+      "has_synced": false,
+      "path": "select/pl_01_アリストテレスは斯く語りき_ドラマストア.txt"
+    }
+  ]
+}
